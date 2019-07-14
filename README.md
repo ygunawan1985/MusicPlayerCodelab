@@ -6,6 +6,8 @@ wearables" codelab. [Access the codelabs](https://codelabs.developers.google.com
 
 MusicPlayer Codelab
 
+Overview file is attached as a word file: MusicPlayerOverview.docx
+
 Instructions:
 
 - Run the Android project under the "base" folder.
